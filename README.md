@@ -1,2 +1,3 @@
 # git-test
-testing
+My first Git push!
+Hello Odin!
